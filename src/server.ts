@@ -83,7 +83,7 @@ app.post("/api/bookings", async (req, res) => {
     const requestId = `NK-${Date.now().toString(36).toUpperCase()}`;
     try {
       await sendBookingNotification({ id: requestId, name: String(name).trim(), phone: String(phone).trim(), email: email ? String(email).trim() : undefined, service: String(service).trim(), preferredDate: preferredDate ? String(preferredDate) : undefined, location: location ? String(location).trim() : undefined, message: message ? String(message).trim() : undefined });
-      res.status(200).json({ ok: true, id: requestId, emailSent: true, stored: false, message: "Callback request emailed successfully. Your details were not stored in the database." });
+      res.status(200).json({ ok: true, id: requestId, emailSent: true, stored: false, message: "Email sent successfully." });
     } catch (emailError) {
       console.error(`Callback request ${requestId} email delivery failed:`, emailError instanceof Error ? emailError.message : emailError);
       res.status(502).json({ ok: false, emailSent: false, stored: false, message: "The callback request email could not be delivered. Please try again or call +91 94669 80984." });
