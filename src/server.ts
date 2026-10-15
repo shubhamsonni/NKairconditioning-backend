@@ -1,3 +1,5 @@
+import path from "node:path";
+import { catalogRouter } from "./catalog.js";
 import express from "express";
 import cors from "cors";
 import mongoose, { Schema } from "mongoose";
@@ -68,6 +70,8 @@ app.use(cors({
   allowedHeaders: ["Content-Type"],
 }));
 app.use(express.json());
+app.use("/api/catalog", catalogRouter);
+app.use("/work", express.static(path.resolve(__dirname, "../public/work"), { maxAge: "7d", etag: true, dotfiles: "deny" }));
 
 const reviewSchema = new Schema({ name:String, comment:String, serviceSatisfaction:{type:Number,min:1,max:5,required:true}, behaviour:{type:Number,min:1,max:5,required:true} },{timestamps:true});
 const Review = mongoose.model("Review",reviewSchema);

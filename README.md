@@ -32,3 +32,17 @@ npm start
 ```
 
 Never commit the real `.env` file.
+
+## Category media and pagination
+
+The backend owns `src/data/catalog.json` and optimized media in `public/work/`. Deploy both `dist/` and `public/work/`. Restart the API after updating the catalog.
+
+- `GET /api/catalog/services` returns 12 category summaries without gallery arrays.
+- `GET /api/catalog/services/:slug` returns one summary.
+- `GET /api/catalog/services/:slug/media?page=1` returns at most 10 items and `page`, `pageSize`, `total`, `totalPages`. The backend fixes the page size at 10 and validates page numbers.
+- `GET /api/catalog/hero` returns seven slides: shop first, the original three and three random photos from distinct categories. This response is not cached.
+- `/work/*` serves optimized photos and videos with cache headers and HTTP range support.
+
+Run `npm run import:work` with development dependencies installed to import source folders. `MEDIA_SOURCE_DIR` defaults to `E:/`; the shop photo is included. Importing runs offline, never during visitor requests. Rebuild/restart after importing. The source drive is not needed when serving the site.
+
+Run `npm run build` followed by `npm test` to check pagination, category summaries, media paths, random slides and video range requests.
