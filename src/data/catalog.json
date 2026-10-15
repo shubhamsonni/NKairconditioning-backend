@@ -30,7 +30,16 @@
         "/work/underground-fitting/photo-021.webp",
         "/work/underground-fitting/photo-022.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Underground AC Pipe Fitting in Gurugram",
+      "seoDescription": "Concealed AC pipe routing for new installations and renovation work. Contact N K Airconditioning in Sector 86, Gurugram to discuss your fitting requirements.",
+      "overview": "Concealed pipe routes need to be planned before finishes are closed. Share the indoor and outdoor unit positions, access points and project stage so our team can assess the fitting work.",
+      "tasks": [
+        "Copper and drain pipe routing",
+        "Concealed connections for new AC installations",
+        "Pipe access and leakage checks",
+        "Coordination with your installation or renovation work"
+      ]
     },
     {
       "slug": "ahu-fcu-ac",
@@ -106,7 +115,16 @@
         "/work/ahu-fcu-ac/photo-065.webp",
         "/work/ahu-fcu-ac/photo-066.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "AHU, FCU & Condensing Unit Installation in Gurugram",
+      "seoDescription": "AHU, FCU and condensing unit installation support for commercial premises in Gurugram. Discuss site access and your cooling requirements with our team.",
+      "overview": "AHU, FCU and condensing units form part of larger cooling systems. We discuss the existing setup, equipment positions and maintenance access before recommending installation work.",
+      "tasks": [
+        "AHU and FCU installation support",
+        "Condensing unit placement and connections",
+        "System checks after installation",
+        "Maintenance access planning"
+      ]
     },
     {
       "slug": "air-drier",
@@ -121,7 +139,16 @@
         "/work/air-drier/photo-004.webp",
         "/work/air-drier/photo-005.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Air Drier Repair in Gurugram",
+      "seoDescription": "Air drier inspection and repair support in Gurugram. Tell N K Airconditioning about moisture, cooling or operating problems to arrange an assessment.",
+      "overview": "If an air drier is not operating as expected, share the equipment model and the symptoms you have noticed. Inspection helps establish which components or connections need attention.",
+      "tasks": [
+        "Operating fault assessment",
+        "Cooling and moisture-related checks",
+        "Component repair or replacement assessment",
+        "Testing after repair"
+      ]
     },
     {
       "slug": "cassette-ac",
@@ -164,7 +191,16 @@
         "/work/cassette-ac/photo-032.webp",
         "/work/cassette-ac/photo-033.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Cassette AC Installation in Gurugram",
+      "seoDescription": "Ceiling cassette AC installation for offices, shops and commercial spaces in Gurugram. Get site assessment and installation support from N K Airconditioning.",
+      "overview": "Ceiling cassette installation requires suitable ceiling access, drainage and an outdoor unit position. We assess the layout and connections so the system can be installed and tested.",
+      "tasks": [
+        "Ceiling access and unit position checks",
+        "Indoor and outdoor unit connections",
+        "Condensate drain routing",
+        "Cooling and drainage checks"
+      ]
     },
     {
       "slug": "chiller-ac",
@@ -252,7 +288,16 @@
         "/work/chiller-ac/photo-077.webp",
         "/work/chiller-ac/photo-078.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Chiller Repair & Maintenance in Gurugram",
+      "seoDescription": "Chiller fault diagnosis, repair and maintenance support for commercial and industrial cooling in Gurugram. Contact our Sector 86 team to discuss the issue.",
+      "overview": "For chiller enquiries, tell us the unit model, location and any fault indications. Understanding the cooling problem and site conditions helps us plan an inspection and discuss repair options.",
+      "tasks": [
+        "Chiller operating fault diagnosis",
+        "Cooling performance checks",
+        "Repair and replacement assessment",
+        "Preventive maintenance support"
+      ]
     },
     {
       "slug": "cold-unit-ac",
@@ -272,7 +317,16 @@
         "/work/cold-unit-ac/photo-009.webp",
         "/work/cold-unit-ac/photo-010.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Cold Unit Installation & Repair in Gurugram",
+      "seoDescription": "Cold unit installation and repair for storage and commercial cooling in Gurugram. Discuss temperature problems or a new installation with N K Airconditioning.",
+      "overview": "Cold storage requirements depend on the space and intended use. Share your unit details, required operating conditions and any temperature problems so we can assess the installation or repair.",
+      "tasks": [
+        "Cold unit installation assessment",
+        "Temperature and cooling fault checks",
+        "Compressor and component repair assessment",
+        "Testing after installation or repair"
+      ]
     },
     {
       "slug": "ductable-ac",
@@ -379,7 +433,16 @@
         "/work/ductable-ac/photo-096.webp",
         "/work/ductable-ac/photo-097.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Ductable AC Installation & Repair in Gurugram",
+      "seoDescription": "Ductable AC repair and installation for offices and commercial spaces in Gurugram. Contact N K Airconditioning for airflow, cooling and installation support.",
+      "overview": "Uneven airflow or poor cooling in a ductable system can require checks beyond the indoor unit. We discuss the premises, duct access and symptoms before inspecting the system.",
+      "tasks": [
+        "Ductable AC installation",
+        "Airflow and cooling checks",
+        "Fault diagnosis and repair",
+        "Drainage and connection checks"
+      ]
     },
     {
       "slug": "package-ac",
@@ -397,7 +460,16 @@
         "/work/package-ac/photo-007.webp",
         "/work/package-ac/photo-008.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Package AC Repair in Gurugram",
+      "seoDescription": "Package AC inspection and repair support for commercial premises in Gurugram. Share your unit details and cooling problem with N K Airconditioning.",
+      "overview": "Package AC enquiries should include the equipment location, access arrangements and operating symptoms. Our team can assess the system and explain the repair work identified during inspection.",
+      "tasks": [
+        "Package unit fault diagnosis",
+        "Cooling and airflow assessment",
+        "Component repair assessment",
+        "Operational testing after repair"
+      ]
     },
     {
       "slug": "ac-servicing",
@@ -412,6 +484,15 @@
         "/work/ac-servicing/video-3.mp4",
         "/work/ac-servicing/video-4.mp4",
         "/work/ac-servicing/video-5.mp4"
+      ],
+      "seoTitle": "Ductable, Tower & Split AC Service in Gurugram",
+      "seoDescription": "Cleaning and servicing for ductable, tower and split AC units in Gurugram. View our project videos and contact N K Airconditioning to arrange service.",
+      "overview": "Servicing requirements vary by AC type, usage and access. Tell us which units need attention and whether you have noticed weak airflow, water leakage or reduced cooling.",
+      "tasks": [
+        "AC cleaning and servicing",
+        "Airflow and cooling checks",
+        "Drainage checks",
+        "Maintenance advice after inspection"
       ]
     },
     {
@@ -466,7 +547,16 @@
         "/work/split-ac/photo-043.webp",
         "/work/split-ac/photo-044.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Split AC Installation in Gurugram",
+      "seoDescription": "Split AC installation and replacement support for homes, offices and shops in Gurugram. View project photos and contact our Sector 86 installation team.",
+      "overview": "A split AC installation needs appropriate indoor and outdoor positions, pipe routing and drainage. We review the space and discuss the installation requirements before work begins.",
+      "tasks": [
+        "Indoor and outdoor unit placement",
+        "Pipe and drain connections",
+        "Replacement and reinstallation assessment",
+        "Cooling and leakage checks"
+      ]
     },
     {
       "slug": "tower-ac",
@@ -488,7 +578,16 @@
         "/work/tower-ac/photo-011.webp",
         "/work/tower-ac/photo-012.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "Tower AC Installation in Gurugram",
+      "seoDescription": "Tower AC installation support for shops, offices and larger rooms in Gurugram. Discuss space, access and cooling requirements with N K Airconditioning.",
+      "overview": "Tower units need suitable floor space, airflow clearance and outdoor connections. Share the room layout and equipment details so we can assess positioning and installation access.",
+      "tasks": [
+        "Floor-standing unit placement",
+        "Outdoor unit connection checks",
+        "Drain routing assessment",
+        "Cooling and airflow testing"
+      ]
     },
     {
       "slug": "vrv-ac",
@@ -545,7 +644,16 @@
         "/work/vrv-ac/photo-046.webp",
         "/work/vrv-ac/photo-047.webp"
       ],
-      "videos": []
+      "videos": [],
+      "seoTitle": "VRV AC Installation & Service in Gurugram",
+      "seoDescription": "VRV air conditioning installation and service support for commercial spaces in Gurugram. Contact N K Airconditioning to discuss your system and project.",
+      "overview": "VRV projects involve multiple units and shared system connections. Tell us the equipment details, site layout and whether you need installation, servicing or fault assessment.",
+      "tasks": [
+        "VRV installation assessment",
+        "Indoor and outdoor unit connections",
+        "System fault and cooling checks",
+        "Servicing and maintenance support"
+      ]
     }
   ],
   "heroSlides": [
